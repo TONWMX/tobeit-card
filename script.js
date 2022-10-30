@@ -5,8 +5,8 @@ const visitFigma = () => {
     const topic = document.getElementById("blog-topic");
     const content = document.getElementById("blog-content");
 
-    topic.innerHTML = "This is a fake Figma! 📝";
-    content.innerHTML = "Today we're going to use figma for designing your first webapge. <br/>clicked time is " + counter;
+    topic.innerHTML = "ข้าวมันไก่";
+    content.innerHTML = "" + counter;
 
     topic.style.color = "black"
 }
